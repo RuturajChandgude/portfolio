@@ -14,7 +14,7 @@ function App() {
         "https://www.gtechme.com/wp-content/uploads/2024/07/Top-Chatting-Apps-In-UAE-2024-Update-image-1024x576.jpg",
       sourceCode: "https://github.com/RuturajChandgude/Chat-app",
       liveDemo: "https://example.com",
-      tags: ["React", "Node.js", "Socket.io", "MongoDB"],
+      tags: ["React", "Node.js", "Websocket", "MongoDB"],
     },
     {
       title: "Mockmate",
